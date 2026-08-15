@@ -295,21 +295,16 @@ Automated classification workflow
 
 This project was developed as part of a GIS and Remote Sensing portfolio to demonstrate practical skills in satellite image processing, raster analysis, LULC classification and professional cartographic design.
 
+
 👤 Author
 Abue Zahid
 
 GIS & Remote Sensing Enthusiast
-
 This project represents practical work in:
-
 GIS | Remote Sensing | QGIS | Satellite Image Analysis | LULC Mapping
-
 📄 License & Attribution
-
 This project is intended for educational and portfolio purposes.
-
 The satellite imagery and related datasets remain subject to their respective data providers' terms and licenses.
-
 If you reuse the derived maps, analysis or documentation, please provide appropriate attribution.
 
 ⭐ Acknowledgement
