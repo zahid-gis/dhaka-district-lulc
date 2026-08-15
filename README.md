@@ -10,6 +10,13 @@ README.md
 
 > **Note:** Percentages are calculated from the classified pixels in the final LULC raster. NoData pixels were excluded from the area calculation.
 
+## 🗺️ Final LULC Map
+
+The final Land Use / Land Cover (LULC) classification map of Dhaka District is shown below.
+
+![Final LULC Map](output/Dhaka_LULC_Final_Map.png)
+
+**Figure:** Final LULC classification map of Dhaka District, Bangladesh, with LULC area distribution.
 
 ---
 
